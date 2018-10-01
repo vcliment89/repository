@@ -6,6 +6,7 @@
   "url": "https://github.com/hassio-addons/addon-lovelace-migration",
   "startup": "once",
   "arch": [
+    "arm64",
     "aarch64",
     "amd64",
     "armhf",
