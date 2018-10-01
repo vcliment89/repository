@@ -6,11 +6,11 @@
   "url": "https://github.com/vcliment89/addon-lovelace-migration",
   "startup": "once",
   "arch": [
-    "arm64",
     "aarch64",
     "amd64",
     "armhf",
-    "i386"
+    "i386",
+    "arm64"
   ],
   "boot": "manual",
   "hassio_api": true,
