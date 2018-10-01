@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "slug": "lovelace-migration",
   "description": "Automatically convert your existing UI to the new Lovelace UI",
-  "url": "https://github.com/hassio-addons/addon-lovelace-migration",
+  "url": "https://github.com/vcliment89/addon-lovelace-migration",
   "startup": "once",
   "arch": [
     "arm64",
